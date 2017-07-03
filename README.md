@@ -1,2 +1,3 @@
-# ragus-helloworld
+content begin
+ragus-helloworld
 short
